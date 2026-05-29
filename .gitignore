@@ -1,0 +1,31 @@
+# datasets
+dataset/
+datasets/
+Media/
+data/
+
+# models
+*.pt
+*.pth
+*.h5
+*.keras
+*.ckpt
+
+# notebook cache
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
+
+# virtual env
+venv/
+.env
+
+# large media
+*.mp4
+*.avi
+*.mov
+yolo_training/Media/
+resnet_training/resnet_dataset
+random_forest_training/prices_expanded.csv
