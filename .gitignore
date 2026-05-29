@@ -29,3 +29,5 @@ venv/
 yolo_training/Media/
 resnet_training/resnet_dataset
 random_forest_training/prices_expanded.csv
+scraper/dataset_root
+scraper/dataset_balanced
